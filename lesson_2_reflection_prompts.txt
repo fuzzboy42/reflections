@@ -16,6 +16,8 @@ Branches can be used for experimental features or features that are not ready fo
 branch. You can keep the code separate until everything is ready.
 
 How do the diagrams help you visualize the branch structure?
+It allows you to see where branches diverge and come back together. This allows you to see what code is 
+located at each commit. It also allows you to see all the difference branches an commits in the repo.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
