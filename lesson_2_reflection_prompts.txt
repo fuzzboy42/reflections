@@ -7,9 +7,13 @@ The staging area lets you separate out individual files that make up a logical c
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can use git diff --staged to make sure all the changes in the staging area are for the same logical
+change before committing to the repo. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches can be used for experimental features or features that are not ready for the current working
+branch. You can keep the code separate until everything is ready.
 
 How do the diagrams help you visualize the branch structure?
 
