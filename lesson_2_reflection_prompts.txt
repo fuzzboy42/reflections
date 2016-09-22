@@ -26,3 +26,4 @@ branches since its code comes from both.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic merging will save a lot of time. Manual merges guarantees the code you want will be there.
