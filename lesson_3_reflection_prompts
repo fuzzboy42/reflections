@@ -10,7 +10,7 @@ Automatic pulls might leave you with unexpected changes that would take time to 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Branches are for when you want to modify code for a new feature, bug fix, etc without changing the existing working code. Clones are for when you want a copy of the exisiting code on your local machine. Forks are for when you want a copy of the existing code without changing the original copy. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
