@@ -20,7 +20,7 @@ You can merge and work on the code offline.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+You can share files via other means but you would need to keep each other updated on what was changed. It makes it harder to keep track of what was changed and the history of the changes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
