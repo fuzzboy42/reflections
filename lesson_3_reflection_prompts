@@ -15,7 +15,7 @@ Branches are for when you want to modify code for a new feature, bug fix, etc wi
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+You can merge and work on the code offline. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
