@@ -25,4 +25,4 @@ You can share files via other means but you would need to keep each other update
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Make changes in separate branches when  you want to try something on the codebase without messing up the working code. This can be a feature, bug fix, etc. Working on master allows everyone to see it easily but might break code.
